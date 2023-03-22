@@ -18,7 +18,7 @@ var resultTableau = tableau.length;
 console.log(resultTableau);
 
 /* exercice 6 */
-let objet={nom, age}
+let objet={nom:"François", age:24}
 console.log(objet.nom);
 
 /* exercice 7 */
@@ -32,6 +32,4 @@ console.log(date.getMonth());
 /* exercice 9 */
 let tableau2 = ["Je","Suis","Une","Chaîne"]
 console.log(tableau2.join());
-
-
 
