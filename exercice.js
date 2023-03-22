@@ -10,7 +10,7 @@ var somme = 10+13;
 /* exercice 4 */
 var chaine ="jesuisunechaine"
 var resultChaine = chaine.toUpperCase();
-console.log(resultChaine)
+console.log(resultChaine);
 
 /* exercice 5 */
 let tableau =[1,2,3,4,5]
@@ -31,7 +31,7 @@ console.log(date.getMonth());
 
 /* exercice 9 */
 let tableau2 = ["Je","Suis","Une","Chaîne"]
-console.log(tableau2.join())
+console.log(tableau2.join());
 
 
 
